@@ -1,0 +1,42 @@
+body {
+	background: gray;
+}
+
+p {
+	color: orange;
+}
+
+div {
+	border: 1px solid black;
+}
+
+.comments {
+	font-weight: bold;
+	color: #64FE2E;
+}
+
+.first {
+	font-size: 40px;
+}
+
+.second {
+	color: red;
+}
+
+li {
+	text-align: center;
+}
+
+li.why {
+	font-family: sans-serif;
+}
+
+li#not {
+	font-family: serif;
+}
+
+#dolphin {
+	font-style: italic;
+	color: #0040FF;
+}
+
